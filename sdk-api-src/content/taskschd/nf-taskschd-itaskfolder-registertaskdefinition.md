@@ -28,7 +28,7 @@ req.irql:
 targetos: Windows
 req.typenames: 
 req.redist: 
-ms.custom: 19H1
+ms.custom: 19H1111
 f1_keywords:
  - ITaskFolder::RegisterTaskDefinition
  - taskschd/ITaskFolder::RegisterTaskDefinition
